@@ -1,0 +1,17 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: ce26d51d-0f25-4846-9437-ebdb373ddabf
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/codingalzi/jb2
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  title: Fancy Jupyter Book
+  description: A Jupyter Book with a custom theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
